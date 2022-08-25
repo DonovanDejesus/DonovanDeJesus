@@ -1,0 +1,47 @@
+body{
+    background-color: #2A3132;
+    margin: 50px;
+}
+#robot{
+    color: #90AFC5;
+    text-align: center;
+}
+#George{
+    color: #90AFC5;
+    text-align: center;
+}
+h2{
+    color: #336B87;
+}
+h3{
+    color: #68829E;
+    text-align: justify;
+}
+.menu ul{
+    background-color:gray;
+    margin:0 auto;
+    width:100%;   
+    padding:10px;   
+ }
+ .menu li{
+    display:inline;   
+    border-right: 1px solid #A10051;   
+    color:#a4ff00;
+    font-weight:400;
+    padding: 10px;
+ }
+ .menu li:hover{
+    background-color:black;      
+    border-right: 1px solid RGB(66, 73, 73);
+    font-weight:600;
+    text-decoration:underline;
+    cursor:pointer;
+ }
+ img{
+    width: 20%;
+    height: 20%;
+   
+ }
+ button{
+    background-color: #336B87;
+ }
